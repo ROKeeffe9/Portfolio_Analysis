@@ -52,7 +52,7 @@ Portfolio_Analysis/ \
 
 ### 1. Clone the repository
 
-git clone https://github.com/ROKeeffe9/Portfolio_Analysis.git
+git clone https://github.com/ROKeeffe9/Portfolio_Analysis.git \
 cd Portfolio_Analysis
 
 ### 2. Install dependencies
