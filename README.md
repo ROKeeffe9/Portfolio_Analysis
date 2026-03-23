@@ -39,7 +39,7 @@ project/
 │
 ├── app.py # Flask application for routing and request handling
 ├── logic.py # Portfolio calculations and input validation
-│
+|
 ├── templates/
 │ └── index.html # UI
 │
