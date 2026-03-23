@@ -48,11 +48,12 @@ Portfolio_Analysis/ \
 
 ---
 
-## Installation + Setup
+## Installation and Setup
 
 ### 1. Clone the repository
 
-
+git clone https://github.com/ROKeeffe9/Portfolio_Analysis.git
+cd Portfolio_Analysis
 
 ### 2. Install dependencies
 
@@ -60,7 +61,7 @@ pip install flask flask-wtf
 
 ### 3. Set environment variables
 
-export SECRET_KEY=your_secret_key
+export SECRET_KEY=your_secret_key \
 export FLASK_DEBUG=1
 
 ### 4. Run the application
