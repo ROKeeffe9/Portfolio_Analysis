@@ -35,7 +35,7 @@ The results are displayed using an interactive scatter plot using Chart.js.
 
 ## Project Structure
 
-project/ \
+Portfolio_Analysis/ \
 │ \
 ├── app.py # Flask application for routing and request handling \
 ├── logic.py # Portfolio calculations and input validation \
@@ -44,7 +44,7 @@ project/ \
 │ └── index.html # UI \
 │ \
 ├── static/ \
-│ └── styles.css # Styling \
+│ └── styles.css # Styling 
 
 ---
 
