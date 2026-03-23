@@ -35,16 +35,16 @@ The results are displayed using an interactive scatter plot using Chart.js.
 
 ## Project Structure
 
-project/
-│ <br>
-├── app.py # Flask application for routing and request handling <br>
-├── logic.py # Portfolio calculations and input validation <br>
-| <br>
-├── templates/ <br>
-│ └── index.html # UI <br>
-│ <br>
-├── static/ <br>
-│ └── styles.css # Styling <br>
+project/ \
+│ \
+├── app.py # Flask application for routing and request handling \
+├── logic.py # Portfolio calculations and input validation \
+| \
+├── templates/ \
+│ └── index.html # UI \
+│ \
+├── static/ \
+│ └── styles.css # Styling \
 
 ---
 
